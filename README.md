@@ -1,9 +1,10 @@
-Trabajo Practico Final Integrador de Conocimientos.
+# Trabajo Practico Final Integrador de Conocimientos.
 
-Marco Practico:
+## Marco Practico:
 
-Tener en Cuenta:
+### Tener en Cuenta:
 
+```
 . Modularizar el Programa.
 
 . Proteger contra Inclusiones Múltiples.
@@ -19,30 +20,32 @@ Tener en Cuenta:
 . Reusa apropiadamente las entidades desarrolladas en el espacio curricular.
 
 . Demuestra un uso apropiado de la sintaxis y semántica del lenguaje de programación C++.
+```
 
-
-Ukelele Chicken- Desarrollar un Programa:
-
-1. Nuestro dominio de aplicación tiene que ver con la construcción de un sistema de software para una Boutique de Carnes en Santa Clara del Mar “ukelele chicken” que vende carnes.
+> [!NOTE]
+>  Ukelele Chicken- Desarrollar un Programa:
+> 1. Nuestro dominio de aplicación tiene que ver con la construcción de un sistema de software para una Boutique de Carnes en Santa Clara del Mar “ukelele chicken” que vende carnes.
 EL grupo de Trabajo ha venido conversando en una sinergia mental y llega a la conclusión de la trivia publicada anteriormente, basado en el diagrama de Clases que han generado y mejorándolo:
 
-a. Desarrollar las Clases en C++.
 
-b. Que realice la Herencia solicitada.
+1. Desarrollar las Clases en C++.
 
-c. Discriminar las Abstractas de las Reales.
+2. Que realice la Herencia solicitada.
 
-d. Escribir métodos en las Clases Abstractas que sean comunes a los animales.
+3. Discriminar las Abstractas de las Reales.
 
-e. Que separe “Interfaz” de “Implementación” en código, modularizándolo.
+4. Escribir métodos en las Clases Abstractas que sean comunes a los animales.
 
-f. Que permita por menú elegir en tiempo de ejecución el “Tipo” de Objeto.
+5. Que separe “Interfaz” de “Implementación” en código, modularizándolo.
 
-g. Que permita cargar 5 productos, 3 clientes y 2 pedidos, Implementando “Arrays” para almacenar la Información de las Colecciones.
+6. Que permita por menú elegir en tiempo de ejecución el “Tipo” de Objeto.
 
-h. Que Implemente métodos “Virtuales Puros” la clase “Base”.
+7. Que permita cargar 5 productos, 3 clientes y 2 pedidos, Implementando “Arrays” para almacenar la Información de las Colecciones.
 
-i. Que permita llamar de forma “Genérica” los métodos sin importar el tipo de objeto del que se trate.
+8. Que Implemente métodos “Virtuales Puros” la clase “Base”.
+
+9. Que permita llamar de forma “Genérica” los métodos sin importar el tipo de objeto del que se trate.
+
 
 j. Que se Implemente con Punteros del tipo “Animal” apuntando a las clases derivadas.
 
