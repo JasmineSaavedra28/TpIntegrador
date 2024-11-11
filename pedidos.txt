@@ -1,0 +1,18 @@
+Pedido nro. 1 para Carlos Perez:
+- Milanesa de Pollo (Cantidad: 2, Precio Total: $4200)
+- Asado de Vaca (Cantidad: 1, Precio Total: $10000)
+Monto Total del Pedido: $14200
+Pedido nro. 2 para Ana Lopez:
+- Matambre de Cerdo (Cantidad: 1, Precio Total: $7500)
+- Milanesa de Carne (Cantidad: 2, Precio Total: $6200)
+Monto Total del Pedido: $13700
+Pedido nro. 1 para Carlos Perez:
+Atendido por: Carlos Gomez (Supervisor)
+- Milanesa de Pollo (Cantidad: 2, Precio Total: $4200)
+- Asado de Vaca (Cantidad: 1, Precio Total: $10000)
+Monto Total del Pedido: $14200
+Pedido nro. 2 para Ana Lopez:
+Atendido por: Maria Lopez (Vendedor)
+- Matambre de Cerdo (Cantidad: 1, Precio Total: $7500)
+- Milanesa de Carne (Cantidad: 2, Precio Total: $6200)
+Monto Total del Pedido: $13700
