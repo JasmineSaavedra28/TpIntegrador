@@ -46,9 +46,8 @@ EL grupo de Trabajo ha venido conversando en una sinergia mental y llega a la co
 
 9. Que permita llamar de forma “Genérica” los métodos sin importar el tipo de objeto del que se trate.
 
+10. Que se Implemente con Punteros del tipo “Animal” apuntando a las clases derivadas.
 
-j. Que se Implemente con Punteros del tipo “Animal” apuntando a las clases derivadas.
+11. Que recorra el Arrays ejecutando el método “Comer” o “Dormir” usando Polimorfismo (Implementando Herencia y Métodos virtuales).
 
-k. Que recorra el Arrays ejecutando el método “Comer” o “Dormir” usando Polimorfismo (Implementando Herencia y Métodos virtuales).
-
-l. Debe compilar y ejecutarse sin errores.
+l2. Debe compilar y ejecutarse sin errores.
