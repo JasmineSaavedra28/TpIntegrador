@@ -49,5 +49,5 @@ EL grupo de Trabajo ha venido conversando en una sinergia mental y llega a la co
 10. Que se Implemente con Punteros del tipo “Animal” apuntando a las clases derivadas.
 
 11. Que recorra el Arrays ejecutando el método “Comer” o “Dormir” usando Polimorfismo (Implementando Herencia y Métodos virtuales).
-
-l2. Debe compilar y ejecutarse sin errores.
+   
+12. Debe compilar y ejecutarse sin errores.
